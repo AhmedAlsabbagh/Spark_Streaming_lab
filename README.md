@@ -1,1 +1,1 @@
-# Spark_Streaming_lab
+Practicals-(Spark Streaming)
